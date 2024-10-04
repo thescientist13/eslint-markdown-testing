@@ -8,21 +8,6 @@ export default [
     ],
   },
   {
-  //   languageOptions: {
-  //     parser: babelParser,
-  //     parserOptions: {
-  //       ecmaVersion: 2022,
-  //       sourceType: "module",
-  //       requireConfigFile: false,
-  //       babelOptions: {
-  //         plugins: ["@babel/plugin-syntax-import-assertions"],
-  //       },
-  //     },
-  //     globals: {
-  //       browser: true,
-  //       node: true,
-  //     },
-  //   },
     rules: {
       "no-undef": 2,
     },
