@@ -1,0 +1,19 @@
+{
+  "name": "eslint-markdown-testing",
+  "version": "1.0.0",
+  "description": "ESLint + Markdown plugin testing",
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thescientist13/eslint-markdown-testing.git"
+  },
+  "author": "Owen Buckley <owen@thegreenhouse.io",
+  "license": "ISC",
+  "scripts": {
+    "lint": "eslint"
+  },
+  "devDependencies": {
+    "@eslint/markdown": "^6.2.0",
+    "eslint": "^9.11.1"
+  }
+}
